@@ -1,4 +1,4 @@
 # example
 exampled
  
- text writedn in vs local 
+ text writedn in vs locally 
